@@ -13,9 +13,10 @@ containerItems.section.partialRootPaths = EXT:containeritems/Resources/Private/P
 # cat=Containeritems/containeritems; type=string; label= Partial Root Paths for Siema Carousel
 containerItems.siema.partialRootPaths = EXT:containeritems/Resources/Private/Partials/Siema/
 # cat=Containeritems/containeritems; type=string; label= Columns - Space width in %
-containerColumns.spaceWidth = 5
+containerColumns.spaceWidth = 0
 # cat=Containeritems/containeritems; type=string; label= Columns - Width of wider column of two in %
 containerColumns.wideColOfTwoWidth = 60
+containerColumns.wideColOf_1_2 = 80
 # cat=Containeritems/containeritems; type=int; label= Section - Background image width (px)
 containerSection.bgImageWidth = 1600
 # cat=Containeritems/containeritems; type=options[left,center,right]; label= Section - Default content alignment

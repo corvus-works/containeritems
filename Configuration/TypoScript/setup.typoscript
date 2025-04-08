@@ -35,6 +35,8 @@ lib.containerColumnsDefault {
     spaceWidth.value = {$containerColumns.spaceWidth}
     wideColOfTwoWidth = TEXT
     wideColOfTwoWidth.value = {$containerColumns.wideColOfTwoWidth}
+    wideColOf_1_2 = TEXT
+    wideColOf_1_2.value = {$containerColumns.wideColOf_1_2}
   }
 }
 tt_content.containerColumns-1-1 =< lib.containerColumnsDefault
